@@ -1,4 +1,12 @@
 *.class
+*.aux
+*.dvi
+*.lof
+*.log
+*.lot
+*.pdf
+*.gz
+*.toc
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
