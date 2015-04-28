@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{amanatides1987fast}
+John Amanatides, Andrew Woo, et~al.
+\newblock A fast voxel traversal algorithm for ray tracing.
+\newblock In {\em Eurographics}, volume~87, page~10, 1987.
+
+\bibitem{gu2013efficient}
+Yan Gu, Yong He, Kayvon Fatahalian, and Guy Blelloch.
+\newblock Efficient bvh construction via approximate agglomerative clustering.
+\newblock In {\em Proceedings of the 5th High-Performance Graphics Conference},
+  pages 81--88. ACM, 2013.
+
+\bibitem{site:hvrc}
+IFE.
+\newblock Halden virtual reality centre, 2015.
+\newblock [Online; accessed 19-April-2015].
+
+\bibitem{kampe2013high}
+Viktor K{\"a}mpe, Erik Sintorn, and Ulf Assarsson.
+\newblock High resolution sparse voxel dags.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 32(4):101, 2013.
+
+\bibitem{laine2011efficient}
+Samuli Laine and Tero Karras.
+\newblock Efficient sparse voxel octrees.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  17(8):1048--1059, 2011.
+
+\bibitem{szHoke2014comprehensive}
+Istv{\'a}n Sz{\H{o}}ke, Michael~N Louka, Tom-Robert Bryntesen, Svein-Tore
+  Edvardsen, and Joachim Bratteli.
+\newblock Comprehensive support for nuclear decommissioning based on 3d
+  simulation and advanced user interface technologies.
+\newblock {\em Journal of Nuclear Science and Technology},
+  (ahead-of-print):1--17, 2014.
+
+\bibitem{wiki:java}
+Wikipedia.
+\newblock Java (programming language) --- {W}ikipedia{,} the free encyclopedia,
+  2015.
+\newblock [Online; accessed 19-April-2015].
+
+\end{thebibliography}
